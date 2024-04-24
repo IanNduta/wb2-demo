@@ -15,5 +15,5 @@ else if(time <= 23){
     console.log(goodE);
 }
 else{
-    console.log("N/A");
+    console.log("Can you read time?!?!?");
 }
